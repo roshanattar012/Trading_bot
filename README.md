@@ -208,3 +208,4 @@ Log files rotate automatically at 5 MB, keeping the last 3 files.
 requests>=2.31.0
 click>=8.1.7
 ```
+<img width="868" height="552" alt="image" src="https://github.com/user-attachments/assets/703ef2ee-19db-4c68-b4c1-f3e40887241f" />
